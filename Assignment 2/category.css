@@ -1,0 +1,484 @@
+<<<<<<< HEAD
+.frame-child {
+=======
+.ellipse-icon {
+
+>>>>>>> Incoming
+  height: 44px;
+  width: 49px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.category-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-5xs);
+}
+.category-child {
+  width: 58px;
+  height: 11px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  display: none;
+}
+.category-item {
+  width: 58px;
+  height: 1px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  display: none;
+}
+.single-ellipse-icon {
+  align-self: stretch;
+  height: 80px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-item {
+  height: 11px;
+  width: 58px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  display: none;
+}
+.id-001 {
+  height: 7px;
+  width: 18px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+<<<<<<< HEAD
+.rectangle-parent {
+=======
+.rectangle-container {
+
+>>>>>>> Incoming
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) var(--padding-xl);
+  white-space: nowrap;
+}
+.frame-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-sm);
+}
+<<<<<<< HEAD
+=======
+.frame-with-dogs-rabbits-child {
+  height: 11px;
+  width: 58px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  display: none;
+}
+
+>>>>>>> Incoming
+.frame-with-dogs-rabbits {
+  flex: 1;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) var(--padding-2xl) var(--padding-12xs)
+    var(--padding-6xs);
+  white-space: nowrap;
+}
+.frame-with-dogs-rabbits-wrapper {
+  width: 86px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-sm);
+  box-sizing: border-box;
+}
+.single-ellipse-parent {
+  width: 99px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0px var(--padding-2xs) 0px 0px;
+  box-sizing: border-box;
+  gap: var(--gap-6xs);
+}
+<<<<<<< HEAD
+.rectangle-group {
+=======
+.rectangle-parent1 {
+
+>>>>>>> Incoming
+  flex: 1;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) var(--padding-lg) var(--padding-11xs)
+    var(--padding-sm);
+  white-space: nowrap;
+}
+.frame-div {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-mini);
+}
+.cat {
+  height: 7px;
+  flex: 1;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  z-index: 1;
+}
+<<<<<<< HEAD
+.rectangle-container {
+=======
+.rectangle-parent2 {
+
+>>>>>>> Incoming
+  flex: 1;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 22px var(--padding-12xs) var(--padding-mid);
+  white-space: nowrap;
+}
+.single-ellipse-group {
+  width: 98px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-3xs) 0px 0px;
+  box-sizing: border-box;
+  gap: var(--gap-6xs);
+}
+.frame-c {
+  flex: 1;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-xl) 0px var(--padding-3xs);
+  white-space: nowrap;
+}
+.parrots {
+  height: 7px;
+  width: 21px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.rectangle-e {
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) var(--padding-lgi) var(--padding-12xs)
+    var(--padding-lg);
+  white-space: nowrap;
+}
+.rectangle-e-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-mini);
+}
+.single-ellipse-container {
+  width: 88px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.id-004 {
+  height: 7px;
+  width: 19px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+<<<<<<< HEAD
+.rectangle-parent1 {
+=======
+.rectangle-parent3 {
+
+>>>>>>> Incoming
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-2xl) 0px var(--padding-lg);
+  white-space: nowrap;
+}
+.horse {
+  height: 7px;
+  width: 16px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.fish-frame {
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-5xl) 0px var(--padding-lg);
+  white-space: nowrap;
+}
+.frame-with-ellipse {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.id-005 {
+  height: 7px;
+  width: 21px;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  z-index: 1;
+}
+<<<<<<< HEAD
+.rectangle-parent2 {
+=======
+.rectangle-parent4 {
+
+>>>>>>> Incoming
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) var(--padding-mid) var(--padding-11xs)
+    var(--padding-xl);
+  white-space: nowrap;
+}
+.rabbits {
+  height: 7px;
+  width: 22px;
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+}
+<<<<<<< HEAD
+.rectangle-parent3 {
+=======
+.rectangle-parent5 {
+
+>>>>>>> Incoming
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) var(--padding-base) var(--padding-12xs)
+    var(--padding-xl);
+  white-space: nowrap;
+  z-index: 1;
+}
+<<<<<<< HEAD
+.rectangle-parent4 {
+=======
+.rectangle-parent6 {
+
+>>>>>>> Incoming
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+  padding: var(--padding-10xs) 23px var(--padding-12xs) var(--padding-base);
+=======
+  padding: var(--padding-10xs) var(--padding-4xl) var(--padding-12xs)
+    var(--padding-base);
+
+>>>>>>> Incoming
+  white-space: nowrap;
+}
+.rats {
+  height: 7px;
+  width: 13px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+<<<<<<< HEAD
+.rectangle-parent5 {
+=======
+.rectangle-parent7 {
+
+>>>>>>> Incoming
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 26px 0px var(--padding-lgi);
+}
+<<<<<<< HEAD
+.rectangle-parent6 {
+=======
+.rectangle-parent8 {
+
+>>>>>>> Incoming
+  flex: 1;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) var(--padding-mid) var(--padding-11xs)
+    var(--padding-xs);
+  white-space: nowrap;
+}
+<<<<<<< HEAD
+.frame-child7 {
+=======
+.frame-child10 {
+
+>>>>>>> Incoming
+  height: 11px;
+  width: 58px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  display: none;
+}
+.tortoise {
+  height: 7px;
+  width: 29px;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  z-index: 1;
+}
+<<<<<<< HEAD
+.rectangle-parent7 {
+=======
+.rectangle-parent9 {
+
+>>>>>>> Incoming
+  flex: 1;
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) var(--padding-smi) var(--padding-12xs)
+    var(--padding-sm);
+  white-space: nowrap;
+}
+<<<<<<< HEAD
+.rectangle-parent8 {
+=======
+.rectangle-parent10 {
+
+>>>>>>> Incoming
+  flex: 1;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) var(--padding-2xl) var(--padding-11xs)
+    var(--padding-2xs);
+  white-space: nowrap;
+}
+.fish {
+  height: 7px;
+  width: 15px;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  z-index: 1;
+}
+<<<<<<< HEAD
+.rectangle-parent9 {
+=======
+.rectangle-parent11 {
+
+>>>>>>> Incoming
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 25px var(--padding-12xs) var(--padding-lg);
+  white-space: nowrap;
+}
+<<<<<<< HEAD
+.inner-frame {
+=======
+.inner-frame1 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+  text-align: left;
+  font-size: var(--font-size-7xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.category {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 34px 46px 43px;
+  box-sizing: border-box;
+  gap: 22px;
+  letter-spacing: normal;
+}
+
+<<<<<<< HEAD
+@media screen and (max-width: 450px) {
+=======
+@media screen and (max-width: 299px) {
+
+>>>>>>> Incoming
+  .category {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

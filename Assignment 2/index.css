@@ -1,0 +1,591 @@
+<<<<<<< HEAD
+.first-ellipse-icon {
+  width: 49px;
+  height: 44px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0px;
+  left: 51px;
+  border-radius: 50%;
+  object-fit: cover;
+=======
+.frame-set-child {
+  height: 40px;
+  width: 433px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  display: none;
+  max-width: 100%;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.line-frame-icon {
+  height: 2px;
+  flex: 1;
+=======
+.user-name {
+  height: 20px;
+  width: 141px;
+
+>>>>>>> Incoming
+  position: relative;
+<<<<<<< HEAD
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: contain;
+=======
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+
+>>>>>>> Incoming
+  z-index: 1;
+}
+<<<<<<< HEAD
+.contact-frame {
+=======
+.frame-set {
+
+>>>>>>> Incoming
+  align-self: stretch;
+<<<<<<< HEAD
+=======
+  background-color: var(--color-gainsboro);
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+  padding: 0px 0px var(--padding-5xs);
+=======
+  padding: var(--padding-3xs) var(--padding-sm);
+
+>>>>>>> Incoming
+  box-sizing: border-box;
+<<<<<<< HEAD
+=======
+  white-space: nowrap;
+
+>>>>>>> Incoming
+  max-width: 100%;
+}
+<<<<<<< HEAD
+.break-frames-child {
+  height: 27px;
+  width: 471px;
+=======
+.frame-set-item {
+  height: 38px;
+  width: 433px;
+
+>>>>>>> Incoming
+  position: relative;
+  background-color: var(--color-gainsboro);
+  display: none;
+  max-width: 100%;
+}
+<<<<<<< HEAD
+.use-positive-reinforcement {
+=======
+.email-id {
+
+>>>>>>> Incoming
+  height: 26px;
+<<<<<<< HEAD
+  flex: 1;
+=======
+  width: 107px;
+
+>>>>>>> Incoming
+  position: relative;
+<<<<<<< HEAD
+=======
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+
+>>>>>>> Incoming
+  display: inline-block;
+<<<<<<< HEAD
+  max-width: 100%;
+=======
+  flex-shrink: 0;
+
+>>>>>>> Incoming
+  z-index: 1;
+}
+<<<<<<< HEAD
+.break-frames {
+=======
+.frame-set1 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+  padding: var(--padding-12xs) 0px 0px;
+=======
+  padding: var(--padding-7xs) var(--padding-sm);
+
+>>>>>>> Incoming
+  box-sizing: border-box;
+<<<<<<< HEAD
+=======
+  white-space: nowrap;
+
+>>>>>>> Incoming
+  max-width: 100%;
+}
+<<<<<<< HEAD
+.force-frames {
+=======
+.password {
+  height: 32px;
+  width: 130px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frame-set2 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+  padding: var(--padding-12xs) 0px 0px var(--padding-6xs);
+=======
+  padding: var(--padding-9xs) var(--padding-sm);
+
+>>>>>>> Incoming
+  box-sizing: border-box;
+<<<<<<< HEAD
+=======
+  white-space: nowrap;
+
+>>>>>>> Incoming
+  max-width: 100%;
+}
+<<<<<<< HEAD
+.force-frames1 {
+  border: none;
+  outline: none;
+  background-color: var(--color-gainsboro);
+  align-self: stretch;
+  height: 27px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) var(--padding-11xs) 0px;
+  box-sizing: border-box;
+=======
+.confirm-password {
+  height: 31px;
+  width: 227px;
+  position: relative;
+  font-size: var(--font-size-xl);
+
+>>>>>>> Incoming
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+<<<<<<< HEAD
+  min-width: 250px;
+}
+.force-frames-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15px;
+  max-width: 100%;
+}
+.ellipse-cluster {
+  position: absolute;
+  top: 24px;
+  left: 0px;
+  background-color: var(--color-gainsboro);
+  width: 471px;
+  height: 27px;
+}
+.blank-line {
+  margin: 0;
+}
+.transition-to-new-container {
+  position: absolute;
+  top: 0px;
+  left: 7px;
+=======
+  text-align: left;
+
+>>>>>>> Incoming
+  display: inline-block;
+<<<<<<< HEAD
+  width: 471px;
+  height: 42px;
+  z-index: 2;
+}
+.transition-text {
+  align-self: stretch;
+  height: 51px;
+  position: relative;
+  margin-top: -9px;
+}
+.frame-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.help-your-dog {
+  height: 28px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+=======
+  flex-shrink: 0;
+
+>>>>>>> Incoming
+  z-index: 1;
+}
+<<<<<<< HEAD
+.break-frames1 {
+=======
+.frame-set3 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+  padding: 0px 0px 0px var(--padding-11xs);
+=======
+  padding: var(--padding-5xs) var(--padding-sm) var(--padding-12xs);
+
+>>>>>>> Incoming
+  box-sizing: border-box;
+<<<<<<< HEAD
+=======
+  white-space: nowrap;
+
+>>>>>>> Incoming
+  max-width: 100%;
+}
+<<<<<<< HEAD
+.positive-frames {
+  flex: 1;
+=======
+.frame-set-parent {
+  align-self: stretch;
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+  gap: 14.5px;
+=======
+  gap: 12.33px;
+
+>>>>>>> Incoming
+  max-width: 100%;
+}
+<<<<<<< HEAD
+.second-frame {
+  width: 560px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-22xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.breaks-rectangle {
+  height: 26px;
+  flex: 1;
+=======
+.registration-form-child {
+  height: 32px;
+  width: 118px;
+
+>>>>>>> Incoming
+  position: relative;
+  background-color: var(--color-gainsboro);
+<<<<<<< HEAD
+=======
+  display: none;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.contact-us1 {
+  height: 30px;
+  width: 190px;
+=======
+.sign-up1 {
+  height: 28px;
+  flex: 1;
+
+>>>>>>> Incoming
+  position: relative;
+<<<<<<< HEAD
+  white-space: pre-wrap;
+=======
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+
+>>>>>>> Incoming
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+  margin-left: -176px;
+}
+<<<<<<< HEAD
+.rectangle-shape {
+  width: 219px;
+=======
+.registration-form {
+  cursor: pointer;
+  border: none;
+  padding: var(--padding-9xs) var(--padding-4xs) 0px var(--padding-2xl);
+  background-color: var(--color-gainsboro);
+  width: 118px;
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+}
+.interaction-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.abccompanycom {
+  width: 112px;
+  height: 15px;
+  position: relative;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+}
+.a-b-c-company-text {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divider-line {
+  height: 15px;
+  width: 92px;
+  position: relative;
+  display: inline-block;
+=======
+  box-sizing: border-box;
+
+>>>>>>> Incoming
+  white-space: nowrap;
+}
+<<<<<<< HEAD
+.empty-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-10xs);
+  font-size: var(--font-size-xs);
+=======
+.registration-form:hover {
+  background-color: #bfbfbf;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.contact-us-frame {
+  flex: 1;
+=======
+.submit-button {
+  width: 386px;
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+  min-width: 218px;
+  max-width: 100%;
+}
+.ellipses-stack-icon {
+  width: 30px;
+  height: 32px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  z-index: 2;
+}
+.frames-stack {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) var(--padding-smi) 0px 0px;
+}
+.frames-stack-child {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.frames-stack1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) var(--padding-xs) 0px 0px;
+}
+.frames-stack-item {
+  width: 39px;
+  height: 32px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.frames-stack2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0px 0px;
+}
+.ellipse-row {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+<<<<<<< HEAD
+  justify-content: flex-start;
+=======
+  justify-content: center;
+
+>>>>>>> Incoming
+  max-width: 100%;
+  row-gap: 20px;
+}
+<<<<<<< HEAD
+.frame-container {
+  width: 544px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-22xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.contact-us {
+=======
+.sign-up {
+  margin: 0;
+
+>>>>>>> Incoming
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+<<<<<<< HEAD
+  align-items: flex-end;
+=======
+  align-items: flex-start;
+
+>>>>>>> Incoming
+  justify-content: flex-start;
+<<<<<<< HEAD
+  padding: var(--padding-23xl) 0px var(--padding-4xs);
+=======
+  padding: 61px var(--padding-72xl) 64px 73px;
+
+>>>>>>> Incoming
+  box-sizing: border-box;
+<<<<<<< HEAD
+  gap: 23px;
+=======
+  gap: var(--gap-xl);
+
+>>>>>>> Incoming
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+
+<<<<<<< HEAD
+@media screen and (max-width: 450px) {
+  .use-positive-reinforcement {
+    font-size: var(--font-size-base);
+=======
+@media screen and (max-width: 299px) {
+  .sign-up {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+
+>>>>>>> Incoming
+  }
+
+  .transition-to-new-container {
+    font-size: var(--font-size-base);
+  }
+
+  .help-your-dog {
+    font-size: var(--font-size-base);
+  }
+
+  .contact-us1 {
+    font-size: var(--font-size-base);
+  }
+}

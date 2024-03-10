@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "Pet Adoption",
+    "id": "65ed3e6cf4c4ece9cef2c259",
+    "framework": "html-css",
+    "typescript": false,
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "d:\\silver oak\\2302031030046\\Assignment 2\\src\\components",
+    "screensPath": "d:\\silver oak\\2302031030046\\Assignment 2\\src\\pages"
+  }
+}

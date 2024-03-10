@@ -1,0 +1,159 @@
+.shape-circle-icon {
+  height: 44px;
+  width: 49px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.shape-circle-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-32xl);
+}
+.line-segment-icon {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+<<<<<<< HEAD
+.frame-group {
+=======
+.frame-header {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+<<<<<<< HEAD
+.rectangle-shape-icon {
+=======
+.rectangle-shape-icon1 {
+
+>>>>>>> Incoming
+  height: 121px;
+  width: 158px;
+  position: relative;
+  object-fit: cover;
+  min-height: 121px;
+}
+.unseasoned-boneless-lean {
+  margin: 0;
+}
+.unseasoned-boneless-lean-container {
+  width: 357px;
+  height: 69px;
+  position: relative;
+  display: inline-block;
+}
+.opt-for-whole-container {
+  align-self: stretch;
+  height: 46px;
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+  padding-right: var(--padding-3xs);
+}
+.unseasoned-boneless-lean-mea-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+  min-width: 232px;
+  max-width: 100%;
+}
+.rectangle-shape-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+  gap: 45px;
+=======
+  gap: var(--gap-26xl);
+
+>>>>>>> Incoming
+  max-width: 100%;
+}
+.food-tips-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-9xs) 0px var(--padding-2xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-lgi);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.to-determine-which-container {
+  width: 568px;
+  height: 69px;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+}
+.most-experts-agree-container {
+  height: 69px;
+  width: 560px;
+  position: relative;
+  display: inline-block;
+}
+.advice-box {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-12xs) 0px var(--padding-5xl);
+}
+.food-tips {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px var(--padding-4xs);
+  box-sizing: border-box;
+  gap: 19.33px;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-lgi);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+
+<<<<<<< HEAD
+@media screen and (max-width: 450px) {
+  .rectangle-shape-icon {
+=======
+@media screen and (max-width: 299px) {
+  .rectangle-shape-icon1 {
+
+>>>>>>> Incoming
+    flex: 1;
+  }
+
+  .rectangle-shape-parent {
+    flex-wrap: wrap;
+  }
+}
